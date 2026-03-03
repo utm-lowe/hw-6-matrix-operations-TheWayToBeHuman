@@ -122,7 +122,7 @@ Matrix transformMenu()
                 break;
 
             default:
-                cout << "Invalid choice." << endl;
+                break;
         }
 
     } while(choice != 'D');
