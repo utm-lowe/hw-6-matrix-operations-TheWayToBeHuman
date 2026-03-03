@@ -191,4 +191,3 @@ istream& operator>>(istream& is, Matrix& m)
 
     return is;
 }
-  ar
